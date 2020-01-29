@@ -2,13 +2,14 @@
 
 ## Introduction
 
-The CLI project is a great chance for you to show off everything you’ve learned
-about Ruby so far and for many of us, make the first app that's all your own!
+The upcoming CLI project is a great chance for you to show off everything you’ve learned
+about Ruby so far and for many of us, make the first app that's all your own! This lesson
+is provided to help you tackle your first portfolio project. Tips on all aspects of the 
+project are included here, so make sure to have a look through!
 
 **Use this lesson to help you complete [this planning form][planning form]**
 
-Tips on all aspects of the project are included here, so make sure to have a
-look through!
+
 
 > **Note:** Keep in mind that the Ask a Question is not permitted to help while
 > you are building your projects. Use the internet and the resources provided in
@@ -16,8 +17,8 @@ look through!
 
 ## How to Get Started On a Successful Project Build
 
-1. Read through the project requirements [here][requirements] carefully before
-   getting started.
+1. The next lesson includes the project requirements for this project. Read through the 
+   [requirements][] carefully before getting started. 
 
 2. Come up with a project idea of your own, and devote some time to a planning
    session. Think about the following:
