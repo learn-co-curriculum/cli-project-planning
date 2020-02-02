@@ -58,7 +58,7 @@ the Live Coding Club.
 
 - Who is your User?
 - What is their pain point?
-- How do they use our soluiton to overcome this problem?
+- How do they use our solution to overcome this problem?
 
 > **Example:** Gemma has dietary requirements which means that she can’t eat
 > gluten or dairy. Her friends have invited her to dinner at the most excellent
@@ -91,7 +91,7 @@ An in-house expert on each of the MenuItems
 A ‘runner’:
 
 - Responsible for going out into the world and getting data from the Zozo
-    website when our in-house expert needs to know
+    website when our in-house expert needs to know.
 
 In the Zozo app, these might be called CLI, MenuItem, Scraper.
 
