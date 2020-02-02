@@ -124,8 +124,10 @@ shows how to make a shareable link on draw.io:
 
 ### Handy Tools
 
-[Requirements Checklist][requirements checklist]
+[Requirements Checklist][requirements]
+
 [Scraper Checker][Scraper Checker tool]
+
 [draw.io][]
 
 ### Demo Projects
