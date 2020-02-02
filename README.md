@@ -168,4 +168,4 @@ shows how to make a shareable link on draw.io:
 [build]: https://www.youtube.com/watch?v=KwBMwZ89Hj8&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=2&t=0s
 [skeleton video]: https://youtu.be/YZNXWWHUO-E
 [requirements]: https://github.com/learn-co-curriculum/cli-data-gem-assessment
-[planning form]: (https://forms.gle/nxtzb5dbPP2HxZU79)
+[planning form]: https://forms.gle/nxtzb5dbPP2HxZU79
