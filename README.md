@@ -58,7 +58,7 @@ the Live Coding Club.
 
 - Who is your User?
 - What is their pain point?
-- How do they use our soluiton to overcome this problem?
+- How do they use our solution to overcome this problem?
 
 > **Example:** Gemma has dietary requirements which means that she can’t eat
 > gluten or dairy. Her friends have invited her to dinner at the most excellent
@@ -91,7 +91,7 @@ An in-house expert on each of the MenuItems
 A ‘runner’:
 
 - Responsible for going out into the world and getting data from the Zozo
-    website when our in-house expert needs to know
+    website when our in-house expert needs to know.
 
 In the Zozo app, these might be called CLI, MenuItem, Scraper.
 
@@ -124,8 +124,10 @@ shows how to make a shareable link on draw.io:
 
 ### Handy Tools
 
-[Requirements Checklist][requirements checklist]
+[Requirements Checklist][requirements]
+
 [Scraper Checker][Scraper Checker tool]
+
 [draw.io][]
 
 ### Demo Projects
@@ -168,4 +170,4 @@ shows how to make a shareable link on draw.io:
 [build]: https://www.youtube.com/watch?v=KwBMwZ89Hj8&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=2&t=0s
 [skeleton video]: https://youtu.be/YZNXWWHUO-E
 [requirements]: https://github.com/learn-co-curriculum/cli-data-gem-assessment
-[planning form]: (https://forms.gle/nxtzb5dbPP2HxZU79)
+[planning form]: https://forms.gle/nxtzb5dbPP2HxZU79
