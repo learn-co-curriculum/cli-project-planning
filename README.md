@@ -11,7 +11,7 @@ project are included here, so make sure to have a look through!
 
 
 
-> **Note:** Keep in mind that the Ask a Question is not permitted to help while
+> **Note:** Keep in mind that the Ask a Question team is not permitted to help while
 > you are building your projects. Use the internet and the resources provided in
 > this document if you get stuck!
 
