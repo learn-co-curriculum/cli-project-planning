@@ -141,11 +141,6 @@ shows how to make a shareable link on draw.io:
 
 ### Videos
 
-[Getting Started][]
-
-- Using the bundle gem tool
-- Setting up your Github repository
-
 [Eden Events Live Build][]
 
 - First steps of approaching a CLI Project Build
