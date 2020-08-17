@@ -35,8 +35,7 @@ project are included here, so make sure to have a look through!
    and Flow Diagrams for help in filling out the form.
 
 3. Create a skeleton app and repository on Github.
-   [Here is a video][skeleton video] that walks through how to do this. For more
-   insight on how to plan out and get your project idea off the ground, you can
+   For more insight on how to plan out and get your project idea off the ground, you can
    watch [this live build][build], which also shows how to use our
    [Scraper Checker tool][].
 
@@ -153,8 +152,6 @@ shows how to make a shareable link on draw.io:
 
 [Eden Events Live Build]: https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKwBMwZ89Hj8%26list%3DPLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s%26index%3D2%26t%3D0s&sa=D&ust=1578950690624000
 
-[Getting Started]: https://www.google.com/url?q=https://youtu.be/YZNXWWHUO-E&sa=D&ust=1578950690623000
-
 [flowchart overview]: https://www.gliffy.com/blog/how-to-flowchart-basic-symbols-part-1-of-3
 
 [draw.io example]: https://drive.google.com/file/d/1YMbNfo91rfVzsdi3kbMMbyDct2hYwlKy/view?usp=sharing
@@ -168,6 +165,5 @@ shows how to make a shareable link on draw.io:
 [Scraper Checker tool]: https://repl.it/@TheGingertonic/ScraperChecker
 
 [build]: https://www.youtube.com/watch?v=KwBMwZ89Hj8&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=2&t=0s
-[skeleton video]: https://youtu.be/YZNXWWHUO-E
 [requirements]: https://github.com/learn-co-curriculum/cli-data-gem-assessment
 [planning form]: https://forms.gle/nxtzb5dbPP2HxZU79
