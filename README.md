@@ -7,7 +7,7 @@ about Ruby so far and for many of us, make the first app that's all your own! Th
 is provided to help you tackle your first portfolio project. Tips on all aspects of the 
 project are included here, so make sure to have a look through!
 
-**Use this lesson to help you complete [this planning form][planning form]**
+**Self-Paced students: Use this lesson to help you complete [this planning form][planning form]**
 
 
 
@@ -162,3 +162,5 @@ shows how to make a shareable link on draw.io:
 [build]: https://www.youtube.com/watch?v=KwBMwZ89Hj8&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=2&t=0s
 [requirements]: https://github.com/learn-co-curriculum/cli-data-gem-assessment
 [planning form]: https://forms.gle/nxtzb5dbPP2HxZU79
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/cli-project-planning'>CLI Project Planning Resources</a> on Learn.co and start learning to code for free.</p>
