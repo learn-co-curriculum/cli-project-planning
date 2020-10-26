@@ -163,4 +163,4 @@ shows how to make a shareable link on draw.io:
 [requirements]: https://github.com/learn-co-curriculum/cli-data-gem-assessment
 [planning form]: https://forms.gle/nxtzb5dbPP2HxZU79
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/cli-project-planning'>CLI Project Planning Resources</a> on Learn.co and start learning to code for free.</p>
+
