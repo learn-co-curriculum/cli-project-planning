@@ -7,9 +7,6 @@ about Ruby so far and for many of us, make the first app that's all your own! Th
 is provided to help you tackle your first portfolio project. Tips on all aspects of the 
 project are included here, so make sure to have a look through!
 
-**Self-Paced students: Use this lesson to help you complete [this planning form][planning form]**
-
-
 
 > **Note:** Keep in mind that the Ask a Question team is not permitted to help while
 > you are building your projects. Use the internet and the resources provided in
@@ -29,10 +26,6 @@ project are included here, so make sure to have a look through!
     c. What will you need to do with the data once you have got it?
     d. What classes will you be using?
     e. How will you display data one level deep to the user?
-
-   [Use this form][planning form] to jot down your plans and submit it to us so
-   we can see what you are planning! Check out the sections below on User Story
-   and Flow Diagrams for help in filling out the form.
 
 3. Create a skeleton app and repository on Github.
    For more insight on how to plan out and get your project idea off the ground, you can
@@ -161,6 +154,5 @@ shows how to make a shareable link on draw.io:
 
 [build]: https://www.youtube.com/watch?v=KwBMwZ89Hj8&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=2&t=0s
 [requirements]: https://github.com/learn-co-curriculum/cli-data-gem-assessment
-[planning form]: https://forms.gle/nxtzb5dbPP2HxZU79
 
 
