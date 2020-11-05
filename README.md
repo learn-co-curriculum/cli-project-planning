@@ -15,7 +15,7 @@ project are included here, so make sure to have a look through!
 ## How to Get Started On a Successful Project Build
 
 1. The next lesson includes the project requirements for this project. Read through the 
-   [requirements][] carefully before getting started. 
+   requirements carefully before getting started. 
 
 2. Come up with a project idea of your own, and devote some time to a planning
    session. Think about the following:
