@@ -136,9 +136,9 @@ shows how to make a shareable link on draw.io:
 
 Building a CLI to show What's On at the Eden Project:
 
-[Eden Project Part 1][]
-[Eden Project Part 2][]
-[Eden Project Part 3][]
+- [Eden Project Part 1][]
+- [Eden Project Part 2][]
+- [Eden Project Part 3][]
 
 
 [Eden Project Part 1]: https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKwBMwZ89Hj8%26list%3DPLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s%26index%3D2%26t%3D0s&sa=D&ust=1578950690624000
