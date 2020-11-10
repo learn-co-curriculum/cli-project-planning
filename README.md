@@ -134,11 +134,18 @@ shows how to make a shareable link on draw.io:
 
 ### Videos
 
-[Eden Events Live Build][]
+Building a CLI to show What's On at the Eden Project:
 
-- First steps of approaching a CLI Project Build
+[Eden Project Part 1][]
+[Eden Project Part 2][]
+[Eden Project Part 3][]
 
-[Eden Events Live Build]: https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKwBMwZ89Hj8%26list%3DPLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s%26index%3D2%26t%3D0s&sa=D&ust=1578950690624000
+
+[Eden Project Part 1]: https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKwBMwZ89Hj8%26list%3DPLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s%26index%3D2%26t%3D0s&sa=D&ust=1578950690624000
+
+[Eden Project Part 2]: https://www.youtube.com/watch?v=TaRZ9Z8dK2s&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=4
+
+[Eden Project Part 3]: https://www.youtube.com/watch?v=VMAW3VjPUPw&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=5
 
 [flowchart overview]: https://www.gliffy.com/blog/how-to-flowchart-basic-symbols-part-1-of-3
 
