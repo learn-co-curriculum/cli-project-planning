@@ -159,7 +159,7 @@ Building a CLI to show What's On at the Eden Project:
 
 [Scraper Checker tool]: https://repl.it/@TheGingertonic/ScraperChecker
 
-[build]: https://www.youtube.com/watch?v=KwBMwZ89Hj8&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=2&t=0s
+[build]: https://youtu.be/KwBMwZ89Hj8
 [requirements]: https://github.com/learn-co-curriculum/cli-data-gem-assessment
 
 
